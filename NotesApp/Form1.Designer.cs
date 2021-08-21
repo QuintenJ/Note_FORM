@@ -53,7 +53,7 @@ namespace NotesApp
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(47, 181);
+            this.label2.Location = new System.Drawing.Point(46, 181);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(65, 17);
             this.label2.TabIndex = 1;
@@ -102,7 +102,7 @@ namespace NotesApp
             // 
             // btnSave
             // 
-            this.btnSave.Location = new System.Drawing.Point(264, 382);
+            this.btnSave.Location = new System.Drawing.Point(261, 382);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(75, 23);
             this.btnSave.TabIndex = 6;
@@ -112,7 +112,7 @@ namespace NotesApp
             // 
             // btnRead
             // 
-            this.btnRead.Location = new System.Drawing.Point(405, 382);
+            this.btnRead.Location = new System.Drawing.Point(404, 382);
             this.btnRead.Name = "btnRead";
             this.btnRead.Size = new System.Drawing.Size(75, 23);
             this.btnRead.TabIndex = 7;
